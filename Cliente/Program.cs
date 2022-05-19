@@ -1,4 +1,4 @@
-﻿using ClienteHolaMundoS.Comunicacion;
+﻿using Cliente.Comunicacion;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
